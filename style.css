@@ -308,7 +308,7 @@ body{
         width: 100%;
         height: auto;
         grid-column: span 1;
-        padding: 10px;
+        padding: 25px;
     }
     .expDesc{
         padding: 0%;
@@ -334,7 +334,7 @@ body{
         width: 75%;
         height: auto;
         grid-column: span 1;
-        padding: 10px;
+        padding: 25px;
     }
     .expDesc{
         padding: 0%;
