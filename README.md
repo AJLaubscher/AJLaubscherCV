@@ -1,6 +1,7 @@
 # Virtual CV Project
 
-Welcome to my Virtual CV project! This project aims to recreate and restyle my conventional CV into an engaging and interactive online format. <br/>
+Welcome to my Virtual CV project!  <br/>
+This project aims to recreate and restyle my conventional CV into an engaging and interactive online format. <br/>
 This will serve as a foundation for my upcoming online portfolio project.
 
 ## Goals
