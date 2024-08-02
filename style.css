@@ -169,13 +169,13 @@ body{
     align-items: center; /*Center content vertically */
 }
 
-.profile{
-    /* background: black; */
+/* .profile{
+    background: black;
 }
-
 .BasicInfo{
-    /* background: #1f2d3b; */
-}
+    background: #1f2d3b;
+} */
+ 
 .skills{
     display: grid;
     display: grid;
