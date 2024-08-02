@@ -1,33 +1,39 @@
-# AJLaubscherCV
- Curriculum Vitae
+# Virtual CV Project
 
- This project is dedicated to showcase my personal online and interactive curriculum Vitae.
+Welcome to my Virtual CV project! This project aims to recreate and restyle my conventional CV into an engaging and interactive online format. This will serve as a foundation for my upcoming online portfolio project.
 
- The goals for this project is to recreate and restyle my conventional CV to be used on my next project which will be to create an online portfolio.
+## Goals
+Recreate and Restyle: Transform a traditional CV into an online, interactive version.
+Interactive Features: Include clickable links and CSS animations to enhance visual appeal and usability.
+Single Page Layout: Maintain a typical rectangular CV format, commonly used in word processors.
 
- The curruculum vitae will be typed and formatted mainly in HTML and CSS.
+## Structure and Layout
+The CV is structured to resemble a traditional CV format, with a modern, interactive twist. The layout and visual appeal are of top priority, ensuring a professional and engaging presentation.
 
-The structure and layout of this single page is of top priority while adding extra functionality with interactive and clickable links to aid visual appeal.
+## Features
+Profile Picture: Includes a CSS animation indicating clickable GitHub and LinkedIn icons.
+Interactive Social Links: Clickable links to GitHub and LinkedIn profiles.
+General Information: Displays spoken languages, driver's license code, and city location.
+Personal Summary: A concise and engaging personal summary.
+Skills and Hobbies: Highlights relevant skills and personal interests.
+Education: Lists year, degree/diploma, and institute.
+Achievements: Showcases notable accomplishments.
+Experience: Details professional experience.
+References: Provides references for further validation.
 
-Structuring of the document:
-    The page must represent a typical rectangular format CV which can be created through word processers. 
+## Technologies Used
+HTML: For structuring the content.
+CSS: For styling and interactive animations.
 
-    Boxes/containers will be used to structure the CV.
+## Getting Started
+To view the virtual CV, simply open this link
+https://ajlaubscher.github.io/AJLaubscherCV/
 
-    The following must be present:
-        1. Profile picture
-        2. Interactive/ Clickable social links (GitHub, LinkedIn, Email)
-        3. General information (Spoken languages, Drivers licence code, City location)
-        4. Personal Summary (Boasting), short and sweet
-        5. Skills and hobbies
-        6. Education (year, degree/diploma, institute)
-        7. Achievements
-        8. Experience
-        9. References
+## Future Improvements
+This project will serve as a stepping stone for my online portfolio. Future enhancements may include:
 
-    Social Links: use images as links
-
-
+## Integration with additional interactive elements.
+Further styling and responsive design adjustments.
 
 
 
